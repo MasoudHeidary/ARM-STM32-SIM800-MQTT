@@ -60,3 +60,8 @@ bool M_MQTT_pingReq(void);
 ```
 
 ## In Practice
+
+Available in static file
+
+https://user-images.githubusercontent.com/83184423/168591687-50c35f4f-2f38-44ee-8132-e4d6a13827ed.mp4
+
