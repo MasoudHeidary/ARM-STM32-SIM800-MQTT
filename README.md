@@ -36,7 +36,8 @@ then free to go!
 
 ## Functions
 
-**Sim800**
+### Sim800
+
 ```c
 void M_SIM800_RXCallBack(void);
 void M_SIM800_incomePacket(void);
@@ -49,10 +50,13 @@ bool M_SIM800_connect(char *APN, char *APN_user, char *APN_pass, char *host, uin
 
 ```
 
-**MQTT**
+### MQTT
+
 ```c
 bool M_MQTT_connect(char *username, char *password, char *clientid, unsigned short keep_alive_interval, uint8_t clean_session);
 bool M_MQTT_publish(char *topic, char *payload, int packetid, int QoS);
 bool M_MQTT_subscribe(char *topic, int QoS);
 bool M_MQTT_pingReq(void);
 ```
+
+## In Practice
