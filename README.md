@@ -15,10 +15,10 @@ Features
 
 ## UART
 
-Buad Rate
+Buad Rate  
 ![UART](./static/UARTConf0.PNG)  
 
-Interrupt
+Interrupt  
 ![UART](./static/UARTConf1.PNG)
 
 ## How to Use
